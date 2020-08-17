@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 sdhkasdhkasd
+=======
+
+public void function (){
+}
+>>>>>>> origin/zuyuan

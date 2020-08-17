@@ -1,1 +1,2 @@
 奥斯卡见到过卡撒旦教
+public function kaka(){}
